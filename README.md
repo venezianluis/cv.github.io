@@ -2,7 +2,7 @@
 #### Contato
 Solteiro, 21 anos    
 Cidade: Ourinhos – SP  
-E-mail: luis.felipe.venezian@gmail.com  	
+E-mail: luis.felipe.venezian@gmail.com      	
 Celular: (014) 99824-5302  
 
 #### Resumo:
