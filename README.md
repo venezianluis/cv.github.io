@@ -56,11 +56,11 @@ atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases 
 
 #### Habilidades: 
 - Sólidos conhecimentos em T-SQL: Processos com SP's e Functions.
-- Desenvolvimento WEB;
-- ETL e Schedulers: Linux Cron, SQL Server Agent para SP's e DTS's e estou estudando Apache Airflow
+- Desenvolvimento WEB.
+- ETL e Schedulers: Linux Cron, SQL Server Agent para SP's e DTS's e estou estudando Apache Airflow.
 - Banco de dados.
-- Arquitetura de projetos MVC;
-- Gerenciador de Código Fonte GIT;
+- Arquitetura de projetos MVC.
+- Gerenciador de Código Fonte GIT.
 - Shell Scripts.
 - Estudando REGEX.
 
