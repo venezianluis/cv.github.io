@@ -22,20 +22,21 @@ atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases 
 - **MBA em Data Science e Analytics** - USP/Esalq. Inicia em 11/2020. 
 
 #### Experiência (3 Anos e 6 Meses):
-- **Analista de BI (5 Meses)** - Triad Systems | Remoto. 
-	* **Período:** Atual emprego, de 10/06/2020 até o momento.
-	* **Atividades:** 
-		* Atuando com Data Quality bases em Apache Hive e Teradata SQL.
-		* Automazização de processos com Linux Cron/ShellScripts e Python.
-		* Consumo de bases Teradata e SQL Server e automatização de tarefas com SSIS.
-		* Criação de dashboards em Power BI.
-		* Desenvolvimento de migrações Power BI para projeto Web utilizando PGSQL/PHP com servidores NGINX e PGREST em ambiente UNIX. 
-- **Junior Systems Engineer (2 Meses)** - Indra Company | Remoto. 
-	* **Período:** De 15/04/2020 até 09/06/2020.
-	* **Atividades:** 
-		* Desenvolvimento de ETL com SSIS. 
-		* Automatização de expurgos com PowerShell e SP's schedulados por SQL Agent. 
-- **Programador Júnior SQL (2 Anos e 1 Mês)** – KPlay Ltda | Parcialmente Remoto. 
+- **Analista de BI (7 Meses) - VIVO** | Remoto
+	- **Atividade Corrente** - Triad Systems | Remoto. 
+		* **Período:** Atual emprego, de 10/06/2020 até o momento.
+		* **Atividades:** 
+			* Atuando com Data Quality bases em Apache Hive e Teradata SQL.
+			* Automazização de processos com Linux Cron/ShellScripts e Python.
+			* Consumo de bases Teradata e SQL Server e automatização de tarefas com SSIS.
+			* Criação de dashboards em Power BI.
+			* Desenvolvimento de migrações Power BI para projeto Web utilizando PGSQL/PHP com servidores NGINX e PGREST em ambiente UNIX. 
+	- **Primeira Atividade** - Indra Company | Remoto. 
+		* **Período:** De 15/04/2020 até 09/06/2020.
+		* **Atividades:** 
+			* Desenvolvimento de ETL com SSIS. 
+			* Automatização de expurgos com PowerShell e SP's schedulados por SQL Agent. 
+- **Programador Júnior SQL (2 Anos e 1 Mês) - HINODE** – KPlay Ltda | Parcialmente Remoto. 
 	* **Período:** De 07/03/2018 Até 13/04/2020. 
 	* **Atividades:** 
 		* Desenvolvimento de processos com T-SQL, Modelagem de dados para Bussiness Intelligence, criação de processos de ETL via SP's e SQL Agent.
