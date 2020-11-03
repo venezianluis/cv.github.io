@@ -1,7 +1,6 @@
 ## Luis Felipe Antunes Venezian 
 #### Contato
 Solteiro, 21 anos   
-Cidade: Ourinhos – SP   
 E-mail: luis.felipe.venezian@gmail.com   
 Celular: (014) 9-9824-5302   
 
