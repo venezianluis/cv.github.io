@@ -21,8 +21,8 @@ atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases 
 	- **Disponível em:** https://github.com/venezianluis/SysRec
 - **MBA em Data Science e Analytics** - USP/Esalq. Inicia em 11/2020. 
 
-#### Experiência (3 Anos e 5 Meses):
-- **Analista de BI (4 Meses)** - Triad Systems | Remoto. 
+#### Experiência (3 Anos e 6 Meses):
+- **Analista de BI (5 Meses)** - Triad Systems | Remoto. 
 	* **Período:** Atual emprego, de 10/06/2020 até o momento.
 	* **Atividades:** 
 		* Atuando com Data Quality bases em Apache Hive e Teradata SQL.
