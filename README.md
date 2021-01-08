@@ -21,12 +21,14 @@ atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases 
 - **MBA em Data Science e Analytics** - USP/Esalq. Inicia em 11/2020. 
 
 #### Experiência (+3 Anos):
-- **Analista de BI (1 Mês) - Mania de Churrasco** - Qualimedia | Remoto
-	* **Período:** Atual emprego.
+- **Engenheiro de Dados (1 Mês) - Pag Segugo** - Compasso UOL | Remoto
+	* **Período:** Atual emprego CLT (full-time)
+- **Analista de BI (2 Mês) - Mania de Churrasco** - Qualimedia | Remoto
+	* **Período:** Atual prestador de serviço tempo (part-time work).
 	* **Atividades:** Plataforma Azure, bancos de dados MySQL, SQL Server e Power BI.
 - **Analista de BI (5 Meses) - VIVO** | Remoto
 	- **Atividade Corrente** - Triad Systems | Remoto. 
-		* **Período:** 10/06/2020 até o 10/11/2020.
+		* **Período:** 10/06/2020 até 10/11/2020.
 		* **Atividades:** 
 			* Atuando com Data Quality bases em Apache Hive e Teradata SQL.
 			* Automazização de processos com Linux Cron/ShellScripts e Python.
