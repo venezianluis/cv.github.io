@@ -1,6 +1,6 @@
 ## Luis Felipe Antunes Venezian 
 #### Contato
-Solteiro, 21 anos   
+Solteiro, 22 anos   
 E-mail: luis.felipe.venezian@gmail.com   
 Celular: (014) 9-9824-5302   
 
@@ -23,7 +23,7 @@ atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases 
 #### Experiência (+3 Anos):
 - **Engenheiro de Dados (1 Mês) - Pag Segugo** - Compasso UOL | Remoto
 	* **Período:** Atual emprego CLT (full-time)
-- **Analista de BI (2 Mês) - Mania de Churrasco** - Qualimedia | Remoto
+- **Analista de BI (3 Mês) - Mania de Churrasco** - Qualimedia | Remoto
 	* **Período:** Atual prestador de serviço tempo (part-time work).
 	* **Atividades:** Plataforma Azure, bancos de dados MySQL, SQL Server e Power BI.
 - **Analista de BI (5 Meses) - VIVO** | Remoto
@@ -103,6 +103,16 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/pdf/UC-3ad9ddca-a7e9-408
 
 **Python para Data Science: Funções, Pacotes e Pandas básico** (10h) - Plataforma Alura   
 Certificado: https://cursos.alura.com.br/user/luis-venezian/course/python-funcoes-pacotes-pandas/formalCertificate
+
+**AWS Training: Data Analytics Fundamentals (3,5h) - AWS**   
+Certificado: https://drive.google.com/file/d/1DRDbzFbBm_Zwrn14ZLzP_O0BEitxO_S_/view?usp=sharing
+
+**Apache Airflow: Complete Hands-On Beginner to Advanced Class (5h) - Plataforma Udemy**   
+Certificado: https://www.udemy.com/certificate/UC-c38d5d9d-0895-4a4a-828d-61110062f6cd/
+
+**The Ultimate Hands-On Hadoop: Tame your Big Data! (14,5h) - Plataforma Udemy**   
+Certificado: https://www.udemy.com/certificate/UC-7bb9ff44-d78a-4399-bd55-e15221ec308a/
+
 
 ## Perfis 
 **LinkedIn**: https://www.linkedin.com/in/luis-felipe-a-59a77210a/   
