@@ -5,20 +5,20 @@ E-mail: luis.felipe.venezian@gmail.com
 Celular: (014) 9-9824-5302   
 
 #### Resumo:
-Engenheiro de software/dados com experiência em ferramentas Microsoft e Open-Source Projects, sólidos conhecimentos em SQL, ETL e desenvolvimento web. _Know-how_ para resolver problemas e arquitetar soluções no âmbito da tecnologia da informação.
+Engenheiro de dados com experiência em ferramentas Microsoft e Open-Source, sólidos conhecimentos em banco de dados e ETL. _Know-how_ para resolver problemas e arquitetar soluções no âmbito da tecnologia da informação.
 
 #### Objetivo:
-Desenvolver-me cientista de dados, atuar com linguagens de desenvolvimento Python para análise de dados, R, ecossistema hadoop, modelar estruturas de dados,
-atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases de implementação, por exemplo, de portais de acesso ao dado, conheço desenvolvimento WEB e gosto de aplica-lo aos meus trabalhos.
+Desenvolver-me engenheiro de dados, atuar com Python, Spark, ecossistema Hadoop, modelar estruturas de dados,
+atuar com SQL e ferramentas de ETL.
 
 #### Formação Acadêmica:
 - **Técnico em Eletrônica (2 Anos)** – Etec “Jacinto Ferreira de Sá” – Ourinhos. 2016.
-	- **Artigo:** Carregador Sustentável em Bicicletas.
+	- **Artigo:** Carregador Sustentável.
 	- **Disponível em:** https://venezianluis.github.io/sustainable-charger2016.github.io/
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas (3 Anos Seg-Sáb)** – Fatec Ourinhos. 2019.
 	- **TCC:** Implementação de Sistema de Recomendação com NOSQL (Neo4J) 
 	- **Disponível em:** https://github.com/venezianluis/SysRec
-- **MBA em Data Science e Analytics** - USP/Esalq. Inicia em 11/2020. 
+- **MBA em Data Science e Analytics** - USP/Esalq. Cursando. 
 
 #### Experiência (+3 Anos):
 - **Engenheiro de Dados (1 Mês) - Pag Segugo** - Compasso UOL | Remoto
@@ -27,7 +27,7 @@ atuar com SQL e ferramentas de ETL. Ao mesmo passo, atuar como DevOps nas fases 
 	* **Período:** Atual prestador de serviço tempo (part-time work).
 	* **Atividades:** Plataforma Azure, bancos de dados MySQL, SQL Server e Power BI.
 - **Analista de BI (5 Meses) - VIVO** | Remoto
-	- **Atividade Corrente** - Triad Systems | Remoto. 
+	- **Segunda Atividade** - Triad Systems | Remoto. 
 		* **Período:** 10/06/2020 até 10/11/2020.
 		* **Atividades:** 
 			* Atuando com Data Quality bases em Apache Hive e Teradata SQL.
@@ -111,8 +111,10 @@ Certificado: https://drive.google.com/file/d/1DRDbzFbBm_Zwrn14ZLzP_O0BEitxO_S_/v
 Certificado: https://www.udemy.com/certificate/UC-c38d5d9d-0895-4a4a-828d-61110062f6cd/
 
 **The Ultimate Hands-On Hadoop: Tame your Big Data! (14,5h) - Plataforma Udemy**   
-Certificado: https://www.udemy.com/certificate/UC-7bb9ff44-d78a-4399-bd55-e15221ec308a/
+Certificado: https://www.udemy.com/certificate/UC-7bb9ff44-d78a-4399-bd55-e15221ec308a/   
 
+**AWS Cloud Practitioner Essentials (6h) - AWS**
+Certificado: https://drive.google.com/file/d/1VN21XbrSAodV14gTcc8aA3pcLScHPzqH/view?usp=sharing
 
 ## Perfis 
 **LinkedIn**: https://www.linkedin.com/in/luis-felipe-a-59a77210a/   
