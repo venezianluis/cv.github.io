@@ -21,9 +21,9 @@ atuar com SQL e ferramentas de ETL.
 - **MBA em Data Science e Analytics** - USP/Esalq. Cursando. 
 
 #### Experiência (+3 Anos):
-- **Engenheiro de Dados (1 Mês) - Pag Segugo** - Compasso UOL | Remoto
+- **Engenheiro de Dados (2 Meses) - Pag Segugo** - Compasso UOL | Remoto
 	* **Período:** Atual emprego CLT (full-time)
-- **Analista de BI (3 Mês) - Mania de Churrasco** - Qualimedia | Remoto
+- **Analista de BI (3 Meses) - Mania de Churrasco** - Qualimedia | Remoto
 	* **Período:** Atual prestador de serviço tempo (part-time work).
 	* **Atividades:** Plataforma Azure, bancos de dados MySQL, SQL Server e Power BI.
 - **Analista de BI (5 Meses) - VIVO** | Remoto
