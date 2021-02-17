@@ -5,11 +5,10 @@ E-mail: luis.felipe.venezian@gmail.com
 Celular: (014) 9-9824-5302   
 
 #### Resumo:
-Engenheiro de dados com experiência em ferramentas Microsoft e Open-Source, sólidos conhecimentos em banco de dados e ETL. _Know-how_ para resolver problemas e arquitetar soluções no âmbito da tecnologia da informação.
+Engenheiro/Analista de dados com experiência em ferramentas Microsoft e Open-Source, sólidos conhecimentos em banco de dados e ETL. _Know-how_ para resolver problemas e arquitetar soluções no âmbito da tecnologia da informação.
 
 #### Objetivo:
-Desenvolver-me engenheiro de dados, atuar com Python, Spark, ecossistema Hadoop, modelar estruturas de dados,
-atuar com SQL e ferramentas de ETL.
+Desenvolver-me engenheiro de dados, atuar com SQL, Python, Spark, ecossistema Hadoop, modelar estruturas de dados e ferramentas de ETL sempre em cumprimento as determinações da LGPD.
 
 #### Formação Acadêmica:
 - **Técnico em Eletrônica (2 Anos)** – Etec “Jacinto Ferreira de Sá” – Ourinhos. 2016.
@@ -18,19 +17,29 @@ atuar com SQL e ferramentas de ETL.
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas (3 Anos Seg-Sáb)** – Fatec Ourinhos. 2019.
 	- **TCC:** Implementação de Sistema de Recomendação com NOSQL (Neo4J) 
 	- **Disponível em:** https://github.com/venezianluis/SysRec
-- **MBA em Data Science e Analytics** - USP/Esalq. Cursando. 
+- **MBA em Data Science e Analytics** - USP/Esalq. Cursando 11/2020. 
 
 #### Experiência (+3 Anos):
 - **Engenheiro de Dados (2 Meses) - Pag Segugo** - Compasso UOL | Remoto
 	* **Período:** Atual emprego CLT (full-time)
+	* **Atividades:** 
+		* Treinamento Apache Airflow.
+		* Treinamento Hands on em ecossistema Hadoop.
+		* Treinamento Hands on em Spark com Python.
+		* Treinamento AWS Essentials.  
 - **Analista de BI (3 Meses) - Mania de Churrasco** - Qualimedia | Remoto
-	* **Período:** Atual prestador de serviço tempo (part-time work).
-	* **Atividades:** Plataforma Azure, bancos de dados MySQL, SQL Server e Power BI.
+	* **Primeiro Período:** De 11/11/2020 até 22/12 em regime CLT.
+	* **Segundo Período:** Atual prestador de serviço.(part-time work).
+	* **Atividades:** 
+		* Uso da plataforma Azure, Blob Storage, Logic Apps e ETL com DataFactory. 
+		* Desenvolvimento SQL e administração de bd com MySQL 8, SQL Server 2012.
+		* Desenvolvimento de relatórios e dashboards em Power BI.
+		* Automatizações em Python. 
 - **Analista de BI (5 Meses) - VIVO** | Remoto
 	- **Segunda Atividade** - Triad Systems | Remoto. 
 		* **Período:** 10/06/2020 até 10/11/2020.
 		* **Atividades:** 
-			* Atuando com Data Quality bases em Apache Hive e Teradata SQL.
+			* Atuando com projetos de Data Quality em cima de consultas Apache Hive(HQL) e Teradata SQL.
 			* Automazização de processos com Linux Cron/ShellScripts e Python.
 			* Consumo de bases Teradata e SQL Server e automatização de tarefas com SSIS.
 			* Criação de dashboards em Power BI.
