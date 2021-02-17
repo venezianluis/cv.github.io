@@ -28,11 +28,11 @@ Desenvolver-me engenheiro de dados, atuar com SQL, Python, Spark, ecossistema Ha
 		* Treinamento Hands on em Spark com Python.
 		* Treinamento AWS Essentials.  
 - **Analista de BI (3 Meses) - Mania de Churrasco** - Qualimedia | Remoto
-	* **Primeiro Período:** De 11/11/2020 até 22/12 em regime CLT.
+	* **Primeiro Período:** De 11/11/2020 até 22/12/2020 em regime CLT.
 	* **Segundo Período:** Atual prestador de serviço.(part-time work).
 	* **Atividades:** 
 		* Uso da plataforma Azure, Blob Storage, Logic Apps e ETL com DataFactory. 
-		* Desenvolvimento SQL e administração de bd com MySQL 8, SQL Server 2012.
+		* Desenvolvimento SQL e administração de MySQL 8, SQL Server 2012.
 		* Desenvolvimento de relatórios e dashboards em Power BI.
 		* Automatizações em Python. 
 - **Analista de BI (5 Meses) - VIVO** | Remoto
@@ -62,7 +62,7 @@ Desenvolver-me engenheiro de dados, atuar com SQL, Python, Spark, ecossistema Ha
 	* **Período:** De 01/05/2017 Até 15/01/2018. 
 	* **Atividades:**  
 		* Manutenção em dados de arquivos Excel.
-		* Criação de gráficos para indicadorese.
+		* Criação de gráficos para indicadores.
 		* Suporte de informática.
 		
 #### Projetos Freelancer:
@@ -113,16 +113,19 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/pdf/UC-3ad9ddca-a7e9-408
 **Python para Data Science: Funções, Pacotes e Pandas básico** (10h) - Plataforma Alura   
 Certificado: https://cursos.alura.com.br/user/luis-venezian/course/python-funcoes-pacotes-pandas/formalCertificate
 
-**AWS Training: Data Analytics Fundamentals (3,5h) - AWS**   
+**AWS Training: Data Analytics Fundamentals** (3,5h) - AWS   
 Certificado: https://drive.google.com/file/d/1DRDbzFbBm_Zwrn14ZLzP_O0BEitxO_S_/view?usp=sharing
 
-**Apache Airflow: Complete Hands-On Beginner to Advanced Class (5h) - Plataforma Udemy**   
+**Apache Airflow: Complete Hands-On Beginner to Advanced Class** (5h) - Plataforma Udemy   
 Certificado: https://www.udemy.com/certificate/UC-c38d5d9d-0895-4a4a-828d-61110062f6cd/
 
-**The Ultimate Hands-On Hadoop: Tame your Big Data! (14,5h) - Plataforma Udemy**   
-Certificado: https://www.udemy.com/certificate/UC-7bb9ff44-d78a-4399-bd55-e15221ec308a/   
+**The Ultimate Hands-On Hadoop: Tame your Big Data!** (14,5h) - Plataforma Udemy   
+Certificado: https://www.udemy.com/certificate/UC-7bb9ff44-d78a-4399-bd55-e15221ec308a/ 
 
-**AWS Cloud Practitioner Essentials (6h) - AWS**   
+**Taming Big Data with Apache Spark and Python - Hands On!** (7h) - Plataforma Udemy  
+Certificado: https://udemy-certificate.s3.amazonaws.com/pdf/UC-eb859804-0928-4379-803d-228891b2a7d2.pdf
+
+**AWS Cloud Practitioner Essentials** (6h) - AWS   
 Certificado: https://drive.google.com/file/d/1VN21XbrSAodV14gTcc8aA3pcLScHPzqH/view?usp=sharing
 
 ## Perfis 
