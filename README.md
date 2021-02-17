@@ -122,7 +122,7 @@ Certificado: https://www.udemy.com/certificate/UC-c38d5d9d-0895-4a4a-828d-611100
 **The Ultimate Hands-On Hadoop: Tame your Big Data! (14,5h) - Plataforma Udemy**   
 Certificado: https://www.udemy.com/certificate/UC-7bb9ff44-d78a-4399-bd55-e15221ec308a/   
 
-**AWS Cloud Practitioner Essentials (6h) - AWS**
+**AWS Cloud Practitioner Essentials (6h) - AWS**   
 Certificado: https://drive.google.com/file/d/1VN21XbrSAodV14gTcc8aA3pcLScHPzqH/view?usp=sharing
 
 ## Perfis 
