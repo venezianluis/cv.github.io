@@ -20,7 +20,7 @@ Desenvolver-me engenheiro de dados, atuar com SQL, Python, Spark, ecossistema Ha
 - **MBA em Data Science e Analytics** - USP/Esalq. Cursando 11/2020. 
 
 #### Experiência (+3 Anos):
-- **Engenheiro de Dados (2 Meses) - Pag Segugo** - Compasso UOL | Remoto
+- **Engenheiro de Dados (2 Meses)** - Compasso UOL | Remoto
 	* **Período:** Atual emprego CLT (full-time)
 	* **Atividades:** 
 		* Treinamento Apache Airflow.
